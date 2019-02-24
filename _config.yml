@@ -1,0 +1,20 @@
+# Site settings
+title: Hao's blog    				  	#title of your blog
+SEOTitle: My blog | Record life   	 #used for the placeholder text in the search box
+#header-img: img/post-bg-rwd.jpg  	#Background pics
+email: leoliuh127@gmail.com	
+
+description: > # this means to ignore newlines until "baseurl:"
+  Greetings. This is a blog used to record my life. Feel free to send me an email~ 
+
+description: " "   			 
+url: "https://Antimonyleo.github.io"         
+baseurl: ""      
+
+# Sidebar settings
+sidebar: true                           
+sidebar-about-description: "A fresh new day"
+#sidebar-avatar:/img/avatar-by.JPG      
+
+# SNS settings
+github_username:  Antimonyleo
